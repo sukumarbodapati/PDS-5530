@@ -1,0 +1,11 @@
+Height,Weight,Age,Grip_strength,Frailty
+65.8,112,30,30,False
+71.5,136,19,31,False
+69.4,153,45,29,False
+68.2,142,22,28,True
+67.8,144,29,24,True
+68.7,123,50,26,False
+69.8,141,51,22,True
+70.1,136,23,20,True
+67.9,112,17,19,False
+66.8,120,39,31,False
